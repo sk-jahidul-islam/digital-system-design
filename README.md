@@ -6,15 +6,15 @@ This project demonstrates the design, simulation, and analysis of a 4-way traffi
 
 ## 🧠 Project Summary
 
-- ✅ **Design Type:** FSM-based traffic light controller  
-- ✅ **Platform:** Xilinx Vivado  
-- ✅ **Hardware Target:** Artix-7 FPGA  
-- ✅ **HDL:** Verilog  
-- ✅ **Simulation:** Behavioral + RTL + Synthesis schematic  
+-  **Design Type:** FSM-based traffic light controller  
+-  **Platform:** Xilinx Vivado  
+-  **Hardware Target:** Artix-7 FPGA  
+-  **HDL:** Verilog  
+-  **Simulation:** Behavioral + RTL + Synthesis schematic  
 
 ---
 
-## 📸 Simulation & Analysis Results
+##  Simulation & Analysis Results
 
 - **Behavioral Simulation:** Verifies light status (Green, Yellow, Red) for each direction using decimal outputs (`2`, `1`, `4`).
 - **RTL View:** Displays the module structure and connections.
@@ -23,7 +23,7 @@ This project demonstrates the design, simulation, and analysis of a 4-way traffi
 
 ---
 
-## ⚙️ System Behavior
+##  System Behavior
 
 - Only **one direction** is green at a time.
 - Each green light is followed by **yellow**, then transitions to the next direction.
@@ -38,7 +38,7 @@ This project demonstrates the design, simulation, and analysis of a 4-way traffi
 
 ---
 
-## 📖 Project Report
+##  Project Report
 
 A detailed project report (`traffic_light_report.docx`) is included. It covers:
 - Introduction to Verilog and Vivado  
@@ -50,7 +50,7 @@ A detailed project report (`traffic_light_report.docx`) is included. It covers:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open **Xilinx Vivado**  
 2. Create a new project  
