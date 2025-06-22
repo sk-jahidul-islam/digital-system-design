@@ -1,0 +1,8 @@
+*.hw filter=lfs diff=lfs merge=lfs -text
+*.ip_user_files filter=lfs diff=lfs merge=lfs -text
+*.runs filter=lfs diff=lfs merge=lfs -text
+*.sim filter=lfs diff=lfs merge=lfs -text
+*.srcs filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.xpr filter=lfs diff=lfs merge=lfs -text
+*.cache filter=lfs diff=lfs merge=lfs -text
